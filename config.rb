@@ -79,14 +79,17 @@ data_languages.each do |language|
       data_articles
         .select { |article| article["subject_id"] == subject["id"] }
 
-    proxy "/#{language["param"]}/articles/#{subject["param"]}.html",
-      "/articles/template.html", locals: {
+    proxy(
+      "/#{language["param"]}/articles/#{subject["param"]}.html",
+      "/articles/template.html",
+      locals: {
         current_language: language,
         current_subject: subject,
         articles: current_articles,
         title: "#{subject["name"]} (#{language["name"]})"
       },
       ignore: true
+    )
   end
 end
 
