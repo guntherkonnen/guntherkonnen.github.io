@@ -85,7 +85,8 @@ data_languages.each do |language|
         current_subject: subject,
         articles: current_articles,
         title: "#{subject["name"]} (#{language["name"]})"
-      }
+      },
+      ignore: true
   end
 end
 
@@ -103,18 +104,4 @@ helpers do
   def download_for_article(article, data_downloads:)
     data_downloads.find { |download| download["id"] == article["download_id"] }
   end
-
-  # def current_language
-  #   if match = current_page.path.match(/^(\w{2})/)
-  #     match[0]
-  #   else
-  #     "en"
-  #   end
-  # end
-
-  # def current_subject
-  #   current_page.path.match(/^\w{2}\/articles\/(\w+)/)
-  # end
-
-  # include Helpers
 end
