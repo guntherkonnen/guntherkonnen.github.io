@@ -1,0 +1,108 @@
+<div>
+  <div class="border-b pb-10 flex gap-4">
+    <% base_classes = "border rounded p-3 hover:border-teal-600 hover:text-teal-50 hover:bg-teal-600 transition select-none" %>
+    <% active_classes = "border-teal-600 text-teal-50 bg-teal-600" %>
+
+    <div class="flex-1 flex flex-col gap-4">
+      <% data.languages.each do |language| %>
+        <% first_subject = subjects_for_language(
+          language["param"],
+          data_languages: data.languages,
+          data_articles: data.articles,
+          data_subjects: data.subjects
+        ).first %>
+
+        <% if language == current_language %>
+          <%= link_to(
+            language["name"],
+            "/#{language["param"]}/articles/#{first_subject["param"]}.html",
+            class: [base_classes, active_classes]
+          ) %>
+        <% else %>
+          <%= link_to(
+            language["name"],
+            "/#{language["param"]}/articles/#{first_subject["param"]}.html",
+            class: base_classes
+          ) %>
+        <% end %>
+      <% end %>
+    </div>
+
+    <div class="flex-1 flex flex-col gap-4">
+      <% subjects_for_language(
+        current_language["param"],
+        data_languages: data.languages,
+        data_articles: data.articles,
+        data_subjects: data.subjects
+      ).each do |subject| %>
+        <% if subject == current_subject %>
+          <%= link_to(
+            subject["name"],
+            "/#{current_language["param"]}/articles/#{subject["param"]}.html",
+            class: [base_classes, active_classes]
+          ) %>
+        <% else %>
+          <%= link_to(
+            subject["name"],
+            "/#{current_language["param"]}/articles/#{subject["param"]}.html",
+            class: [base_classes]
+          ) %>
+        <% end %>
+      <% end %>
+    </div>
+  </div>
+
+  <div class="flex flex-col mt-4 gap-4">
+    <% articles.sort_by{|a| a["year"]}.reverse.each do |article| %>
+      <div class="border-b last:border-b-0 p-10 pb-14 ">
+        <div class="text-lg text-teal-600 font-semibold">
+          <%= article["title"] %>
+        </div>
+        <div class="text-gray-500 text-sm">
+          <div class="mt-2">
+            Published in <%= article["magazine"] %> in <span class="font-bold"><%= article["year"] %></span>
+          </div>
+          <div class="mt-2">
+            <%= article["authors"].gsub(" en ", ", ").gsub(",,", ",").gsub("anderen", "others") %>
+          </div>
+        </div>
+        <div class="prose mt-5">
+          <%= Sanitize.fragment(
+            article["content"],
+            elements: ["a", "span"],
+            attributes: {
+              "a" => ["href", "title", "target"],
+              "span" => ["style"],
+            },
+            :css => {
+              :properties => ["color"]
+            }
+          ) %>
+        </div>
+        <% if article["url"].present? %>
+          <div class="mt-5">
+            <%= link_to(
+              "link to additional information",
+              article["url"],
+              class: "text-teal-600 hover:text-teal-900 font-bold text-sm underline uppercase",
+              target: :_blank
+            ) %>
+          </div>
+        <% end %>
+
+        <% download = download_for_article(article, data_downloads: data.downloads) %>
+
+        <% if download %>
+          <div class="mt-5">
+            <%= link_to(
+              "download document",
+              "documents/#{download["id"]}/#{download["document_file_name"]}",
+              class: "text-red-600 hover:text-red-900 font-bold text-sm underline uppercase",
+              target: :_blank
+            )%>
+          </div>
+        <% end %>
+      </div>
+    <% end %>
+  </div>
+</div>

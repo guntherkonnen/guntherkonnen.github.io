@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Atmospheric optics",
+    "param": "atmospheric-optics"
+  },
+  {
+    "id": 2,
+    "name": "Climate",
+    "param": "climate"
+  },
+  {
+    "id": 3,
+    "name": "Astronomy",
+    "param": "astronomy"
+  },
+  {
+    "id": 4,
+    "name": "Physics and math",
+    "param": "physics-and-math"
+  },
+  {
+    "id": 5,
+    "name": "Short popular articles",
+    "param": "short-popular-articles"
+  },
+  {
+    "id": 6,
+    "name": "Miscellaneous",
+    "param": "miscellaneous"
+  },
+  {
+    "id": 7,
+    "name": "Optische verschijnselen",
+    "param": "optische-verschijnselen"
+  },
+  {
+    "id": 8,
+    "name": "Klimaat en Weer",
+    "param": "klimaat-en-weer"
+  },
+  {
+    "id": 13,
+    "name": "Sterrenkunde",
+    "param": "sterrenkunde"
+  },
+  {
+    "id": 17,
+    "name": "Natuurkunde",
+    "param": "natuurkunde"
+  },
+  {
+    "id": 18,
+    "name": "Korte populaire stukjes",
+    "param": "korte-populaire-stukjes"
+  },
+  {
+    "id": 19,
+    "name": "Diverse onderwerpen",
+    "param": "diverse-onderwerpen"
+  },
+  {
+    "id": 20,
+    "name": ""
+  }
+]

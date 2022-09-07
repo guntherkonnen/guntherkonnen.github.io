@@ -1,0 +1,74 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <% if defined?(title) %>
+      <title>Gunther Konnen | <%= title %></title>
+    <% else %>
+      <title>Gunther Konnen | <%= current_page.data.title %></title>
+    <% end %>
+    <%= stylesheet_link_tag "tailwind" %>
+    <%#= javascript_include_tag "site" %>
+  </head>
+  <body class="bg-gray-50">
+    <div class="max-w-4xl mx-auto">
+      <div class="rounded-b overflow-hidden">
+        <%= image_tag "header.jpg" %>
+      </div>
+      <div class="mt-5">
+        <div class="flex">
+          <% base_classes = "ml-5 first:ml-0 bg-white w-40 py-4 text-center uppercase rounded border border-gray-200 text-gray-900 hover:text-teal-600 hover:border-teal-600 transition select-none" %>
+          <% active_classes = "!border-teal-600 !text-teal-600" %>
+
+          <% if ["index.html", "en/index.html", "nl/index.html"].include?(current_page.path) %>
+            <%= link_to "introduction", "/en", class: [base_classes, active_classes] %>
+          <% else %>
+            <%= link_to "introduction", "/en", class: base_classes %>
+          <% end %>
+
+          <% if current_page.path =~ /^\w{2}\/articles/ %>
+            <%= link_to "articles", "/en/articles/atmospheric-optics.html", class: [base_classes, active_classes] %>
+          <% else %>
+            <%= link_to "articles", "/en/articles/atmospheric-optics.html", class: base_classes %>
+          <% end %>
+        </div>
+
+        <div class="mt-5 p-10 mb-5 bg-white rounded border">
+          <%= yield %>
+        </div>
+      </div>
+    </div>
+    <!-- Start of StatCounter Code -->
+    <script type="text/javascript">
+     var sc_project = 3504369;
+     var sc_invisible = 1;
+     var sc_partition = 33;
+     var sc_security = "a9ed2110";
+    </script>
+
+    <script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script>
+    <noscript>
+      <div class="statcounter">
+        <a href="http://www.statcounter.com/" target="_blank">
+          <img class="statcounter" src="http://c34.statcounter.com/3504369/0/a9ed2110/1/" alt="counter stats">
+        </a>
+      </div>
+    </noscript>
+    <!-- End of StatCounter Code -->
+
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+     var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+     document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+     try {
+       var pageTracker = _gat._getTracker("UA-9499670-1");
+       pageTracker._trackPageview();
+     } catch (err) {}
+    </script>
+    <!-- End of Google Analytics -->
+  </body>
+</html>

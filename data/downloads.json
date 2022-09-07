@@ -1,0 +1,1920 @@
+[
+  {
+    "id": 1,
+    "document_file_name": "1966_SterVak_Meteoor.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1758524,
+    "document_updated_at": "2010-12-19 16:54:39 +0100"
+  },
+  {
+    "id": 2,
+    "document_file_name": "1967_GrijzeNacht_Meteoor.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 609041,
+    "document_updated_at": "2010-12-19 16:54:59 +0100"
+  },
+  {
+    "id": 3,
+    "document_file_name": "1967_LengteMeteoor_Meteoor.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 3521296,
+    "document_updated_at": "2010-12-19 16:55:06 +0100"
+  },
+  {
+    "id": 4,
+    "document_file_name": "1968_DrievConj_H+D.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 3399263,
+    "document_updated_at": "2010-12-19 16:55:45 +0100"
+  },
+  {
+    "id": 5,
+    "document_file_name": "1968_HeliakischeOpk_H+D.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 2758408,
+    "document_updated_at": "2010-12-19 16:56:21 +0100"
+  },
+  {
+    "id": 6,
+    "document_file_name": "1968_PolRegenboog_H+D.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1294201,
+    "document_updated_at": "2010-12-19 16:56:51 +0100"
+  },
+  {
+    "id": 7,
+    "document_file_name": "1968_SI_extra.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 699561,
+    "document_updated_at": "2010-12-19 16:57:05 +0100"
+  },
+  {
+    "id": 8,
+    "document_file_name": "1968_SI_kaal.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 564661,
+    "document_updated_at": "2010-12-19 16:57:13 +0100"
+  },
+  {
+    "id": 9,
+    "document_file_name": "1969_PolHemel_H+D.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1231607,
+    "document_updated_at": "2010-12-19 16:57:20 +0100"
+  },
+  {
+    "id": 10,
+    "document_file_name": "1970_IcGeoTo_Astron.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 572020,
+    "document_updated_at": "2010-12-19 16:57:33 +0100"
+  },
+  {
+    "id": 11,
+    "document_file_name": "1970_MS_Thesis.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 646994,
+    "document_updated_at": "2010-12-19 16:57:40 +0100"
+  },
+  {
+    "id": 12,
+    "document_file_name": "1970_Schaduwen_JoOnd.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 781916,
+    "document_updated_at": "2010-12-19 16:57:48 +0100"
+  },
+  {
+    "id": 13,
+    "document_file_name": "1971_HaloPol_H+D.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 2966951,
+    "document_updated_at": "2010-12-19 16:57:57 +0100"
+  },
+  {
+    "id": 14,
+    "document_file_name": "1971_kunstmaanovergang_H+D.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1044667,
+    "document_updated_at": "2010-12-19 16:58:29 +0100"
+  },
+  {
+    "id": 15,
+    "document_file_name": "1972_ExtrDecl_JBAA.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 171719,
+    "document_updated_at": "2010-12-19 16:58:40 +0100"
+  },
+  {
+    "id": 16,
+    "document_file_name": "1972_HalosVliegtuig_H+D.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 2119895,
+    "document_updated_at": "2010-12-19 16:58:44 +0100"
+  },
+  {
+    "id": 17,
+    "document_file_name": "1972_Merkur_Orion.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 66578,
+    "document_updated_at": "2010-12-19 16:59:07 +0100"
+  },
+  {
+    "id": 18,
+    "document_file_name": "1972_OccSeries_JBAA.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 189543,
+    "document_updated_at": "2010-12-19 16:59:08 +0100"
+  },
+  {
+    "id": 19,
+    "document_file_name": "1972_Overeenkomsten_NTvN.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 400630,
+    "document_updated_at": "2010-12-19 16:59:11 +0100"
+  },
+  {
+    "id": 20,
+    "document_file_name": "1973_doubletanarc_Weather.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 103947,
+    "document_updated_at": "2010-12-19 16:59:16 +0100"
+  },
+  {
+    "id": 21,
+    "document_file_name": "1973_haloaircraft_Weather.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 205081,
+    "document_updated_at": "2010-12-19 16:59:18 +0100"
+  },
+  {
+    "id": 22,
+    "document_file_name": "1973_NSI_ChemPhysLtt.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 342318,
+    "document_updated_at": "2010-12-19 16:59:21 +0100"
+  },
+  {
+    "id": 23,
+    "document_file_name": "1973_Wolkenboog_H+D.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 971859,
+    "document_updated_at": "2010-12-19 16:59:25 +0100"
+  },
+  {
+    "id": 24,
+    "document_file_name": "1974_aniline_JChemPh.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1349398,
+    "document_updated_at": "2010-12-19 16:59:36 +0100"
+  },
+  {
+    "id": 25,
+    "document_file_name": "1974_Dimers_RadEff.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 674958,
+    "document_updated_at": "2010-12-19 16:59:53 +0100"
+  },
+  {
+    "id": 26,
+    "document_file_name": "1974_Hyperth_RadEff.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1043556,
+    "document_updated_at": "2010-12-19 17:00:02 +0100"
+  },
+  {
+    "id": 27,
+    "document_file_name": "1974_OccStarEcl_JBAA.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 683318,
+    "document_updated_at": "2010-12-19 17:00:23 +0100"
+  },
+  {
+    "id": 28,
+    "document_file_name": "1974_PhD_thesis.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1220814,
+    "document_updated_at": "2010-12-19 17:00:32 +0100"
+  },
+  {
+    "id": 29,
+    "document_file_name": "1975-Subparhfoto_Zenitomslag.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 3260420,
+    "document_updated_at": "2010-12-19 17:00:48 +0100"
+  },
+  {
+    "id": 30,
+    "document_file_name": "1975_C+O2_ChemPhysLtt.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 617812,
+    "document_updated_at": "2010-12-19 17:01:37 +0100"
+  },
+  {
+    "id": 31,
+    "document_file_name": "1975_Clusters_RadEff.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 807615,
+    "document_updated_at": "2010-12-19 17:01:50 +0100"
+  },
+  {
+    "id": 32,
+    "document_file_name": "1975_NovaCygni_Zenit.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1705311,
+    "document_updated_at": "2010-12-19 17:02:07 +0100"
+  },
+  {
+    "id": 33,
+    "document_file_name": "1975_PolHemelRefl_Zenit.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1175915,
+    "document_updated_at": "2010-12-19 17:02:31 +0100"
+  },
+  {
+    "id": 34,
+    "document_file_name": "1975_Subonderzon_Zenit.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 2982745,
+    "document_updated_at": "2010-12-19 17:02:44 +0100"
+  },
+  {
+    "id": 35,
+    "document_file_name": "1975_subsunsatellite_Weather.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 573599,
+    "document_updated_at": "2010-12-19 17:03:17 +0100"
+  },
+  {
+    "id": 36,
+    "document_file_name": "1976_anneclips_Weather.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 657263,
+    "document_updated_at": "2010-12-19 17:03:26 +0100"
+  },
+  {
+    "id": 37,
+    "document_file_name": "1976_Periodic_RASC.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 273480,
+    "document_updated_at": "2010-12-19 17:03:35 +0100"
+  },
+  {
+    "id": 38,
+    "document_file_name": "1976_ZonsverdSatelliet_Zenit.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1449796,
+    "document_updated_at": "2010-12-19 17:03:39 +0100"
+  },
+  {
+    "id": 39,
+    "document_file_name": "1977_BedekkingVerdMaan_Zenit.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 3766080,
+    "document_updated_at": "2010-12-19 17:03:59 +0100"
+  },
+  {
+    "id": 40,
+    "document_file_name": "1977_Bijzonpol_Zenit.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 2276171,
+    "document_updated_at": "2010-12-19 17:04:56 +0100"
+  },
+  {
+    "id": 41,
+    "document_file_name": "1977_halopolarization_Weather.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 86514,
+    "document_updated_at": "2010-12-19 17:05:27 +0100"
+  },
+  {
+    "id": 42,
+    "document_file_name": "1977_L+C_Zenit.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 913946,
+    "document_updated_at": "2010-12-19 17:05:29 +0100"
+  },
+  {
+    "id": 43,
+    "document_file_name": "1977_L+Cfoto_Zenitomslag.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1349032,
+    "document_updated_at": "2010-12-19 17:05:42 +0100"
+  },
+  {
+    "id": 44,
+    "document_file_name": "1977_OccPlanEcl_JBAA.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 938840,
+    "document_updated_at": "2010-12-19 17:06:01 +0100"
+  },
+  {
+    "id": 45,
+    "document_file_name": "1977_SubsunSpace_Zenit.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 2634823,
+    "document_updated_at": "2010-12-19 17:06:15 +0100"
+  },
+  {
+    "id": 46,
+    "document_file_name": "1978_Glorie_Zenit.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 2158003,
+    "document_updated_at": "2010-12-19 17:06:51 +0100"
+  },
+  {
+    "id": 47,
+    "document_file_name": "1978_Perturbation.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 486001,
+    "document_updated_at": "2010-12-19 17:07:23 +0100"
+  },
+  {
+    "id": 48,
+    "document_file_name": "1979_Coronaovergang_Zenit.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 3320427,
+    "document_updated_at": "2010-12-19 17:07:29 +0100"
+  },
+  {
+    "id": 49,
+    "document_file_name": "1979_rainbow_AO.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 684912,
+    "document_updated_at": "2010-12-19 17:08:22 +0100"
+  },
+  {
+    "id": 50,
+    "document_file_name": "1979_Swingby_Zenit.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1154563,
+    "document_updated_at": "2010-12-19 17:08:29 +0100"
+  },
+  {
+    "id": 51,
+    "document_file_name": "1979_Venusrotatie_Zenit.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1255315,
+    "document_updated_at": "2010-12-19 17:08:42 +0100"
+  },
+  {
+    "id": 52,
+    "document_file_name": "1980_RegHalo_Naut.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1390426,
+    "document_updated_at": "2010-12-19 17:08:56 +0100"
+  },
+  {
+    "id": 53,
+    "document_file_name": "1981_Airy_ApplMath.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 852558,
+    "document_updated_at": "2010-12-19 17:09:11 +0100"
+  },
+  {
+    "id": 54,
+    "document_file_name": "1981_Heiligenschijn_Zenit.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1621796,
+    "document_updated_at": "2010-12-19 17:09:21 +0100"
+  },
+  {
+    "id": 55,
+    "document_file_name": "1981_OccStarPlan_JBAA.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 790787,
+    "document_updated_at": "2010-12-19 17:09:39 +0100"
+  },
+  {
+    "id": 56,
+    "document_file_name": "1981_SterbedPlaneet_Zenit.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 6380716,
+    "document_updated_at": "2010-12-19 17:09:48 +0100"
+  },
+  {
+    "id": 57,
+    "document_file_name": "1981_Uranier__Zenit.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 6676196,
+    "document_updated_at": "2010-12-19 17:10:58 +0100"
+  },
+  {
+    "id": 58,
+    "document_file_name": "1982_TripleConj_JBAA.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 4374474,
+    "document_updated_at": "2010-12-19 17:12:08 +0100"
+  },
+  {
+    "id": 59,
+    "document_file_name": "1982_vdDool_Coastal.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 428230,
+    "document_updated_at": "2010-12-19 17:12:56 +0100"
+  },
+  {
+    "id": 60,
+    "document_file_name": "1983_OnzLicht_NatTechn.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 4863955,
+    "document_updated_at": "2010-12-19 17:13:01 +0100"
+  },
+  {
+    "id": 61,
+    "document_file_name": "1983_polintdistrhalos_JOSA.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 2644813,
+    "document_updated_at": "2010-12-19 17:13:52 +0100"
+  },
+  {
+    "id": 62,
+    "document_file_name": "1985_Polarized_Light_rights_rev.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 41971,
+    "document_updated_at": "2010-12-19 17:14:21 +0100"
+  },
+  {
+    "id": 63,
+    "document_file_name": "1986_Viewing_Endeavour.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1546598,
+    "document_updated_at": "2010-12-19 17:14:22 +0100"
+  },
+  {
+    "id": 64,
+    "document_file_name": "1987_eclipsesky_JOSAA.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 898981,
+    "document_updated_at": "2010-12-19 17:14:39 +0100"
+  },
+  {
+    "id": 65,
+    "document_file_name": "1987_supsecrainbow_JOSAA.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1654041,
+    "document_updated_at": "2010-12-19 17:14:49 +0100"
+  },
+  {
+    "id": 66,
+    "document_file_name": "1988_JTK_Venus_gemini.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1641057,
+    "document_updated_at": "2010-12-19 17:15:06 +0100"
+  },
+  {
+    "id": 67,
+    "document_file_name": "1990_Antarct_CircJour.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1163556,
+    "document_updated_at": "2010-12-19 17:15:24 +0100"
+  },
+  {
+    "id": 68,
+    "document_file_name": "1991_halopolarimetry_AO.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 4356905,
+    "document_updated_at": "2010-12-19 17:15:36 +0100"
+  },
+  {
+    "id": 69,
+    "document_file_name": "1992_Photopol_AntarJoUS.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1442638,
+    "document_updated_at": "2010-12-19 17:16:22 +0100"
+  },
+  {
+    "id": 70,
+    "document_file_name": "1992_PolNat_Inverse.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1764151,
+    "document_updated_at": "2010-12-19 17:16:39 +0100"
+  },
+  {
+    "id": 71,
+    "document_file_name": "1993_Basispeilen_Grafiek_DGW.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1935201,
+    "document_updated_at": "2010-12-19 17:16:58 +0100"
+  },
+  {
+    "id": 72,
+    "document_file_name": "1993_Basispeilen_Tekst_DGW.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 5359139,
+    "document_updated_at": "2010-12-19 17:17:19 +0100"
+  },
+  {
+    "id": 73,
+    "document_file_name": "1993_Halofoto_Zenit_omslag.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1085349,
+    "document_updated_at": "2010-12-19 17:18:15 +0100"
+  },
+  {
+    "id": 74,
+    "document_file_name": "1993_Splits_DiagWorksh.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 575411,
+    "document_updated_at": "2010-12-19 17:18:27 +0100"
+  },
+  {
+    "id": 75,
+    "document_file_name": "1993_Venus_Icarus.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 3895511,
+    "document_updated_at": "2010-12-19 17:18:34 +0100"
+  },
+  {
+    "id": 76,
+    "document_file_name": "1993_Zuidpool_Zenit.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 7253258,
+    "document_updated_at": "2010-12-19 17:19:16 +0100"
+  },
+  {
+    "id": 77,
+    "document_file_name": "1994_haloprofiles_AO.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 2180240,
+    "document_updated_at": "2010-12-19 17:20:38 +0100"
+  },
+  {
+    "id": 78,
+    "document_file_name": "1994_Splits_Change.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 405319,
+    "document_updated_at": "2010-12-19 17:21:02 +0100"
+  },
+  {
+    "id": 79,
+    "document_file_name": "1994_TrendAdv_ClimVar.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 283092,
+    "document_updated_at": "2010-12-19 17:21:08 +0100"
+  },
+  {
+    "id": 80,
+    "document_file_name": "1995_paleotemperature_ClCh.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1316886,
+    "document_updated_at": "2010-12-19 17:21:12 +0100"
+  },
+  {
+    "id": 81,
+    "document_file_name": "1995_Scena_Rompaey.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 471085,
+    "document_updated_at": "2010-12-19 17:21:27 +0100"
+  },
+  {
+    "id": 82,
+    "document_file_name": "1996_HydroEnKlimaat_Waterschap.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 747524,
+    "document_updated_at": "2010-12-19 17:21:33 +0100"
+  },
+  {
+    "id": 83,
+    "document_file_name": "1997_Gulfstream_ClCh.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 119432,
+    "document_updated_at": "2010-12-19 17:21:42 +0100"
+  },
+  {
+    "id": 84,
+    "document_file_name": "1997_nw4_klimaatveranderingbodemdaling.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 6623901,
+    "document_updated_at": "2010-12-19 17:21:44 +0100"
+  },
+  {
+    "id": 85,
+    "document_file_name": "1997_NW4_scenarios.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1805931,
+    "document_updated_at": "2010-12-19 17:22:55 +0100"
+  },
+  {
+    "id": 86,
+    "document_file_name": "1998_atlas_abstr.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 354952,
+    "document_updated_at": "2010-12-19 17:23:16 +0100"
+  },
+  {
+    "id": 87,
+    "document_file_name": "1998_ElNino_Bovenk.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 131001,
+    "document_updated_at": "2010-12-19 17:23:21 +0100"
+  },
+  {
+    "id": 88,
+    "document_file_name": "1998_ElNino_Zenit.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 5090763,
+    "document_updated_at": "2010-12-19 17:23:24 +0100"
+  },
+  {
+    "id": 89,
+    "document_file_name": "1998_identification_AO.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 249040,
+    "document_updated_at": "2010-12-19 17:24:19 +0100"
+  },
+  {
+    "id": 90,
+    "document_file_name": "1998_polstructures_AO.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 354971,
+    "document_updated_at": "2010-12-19 17:24:23 +0100"
+  },
+  {
+    "id": 91,
+    "document_file_name": "1998_SOI_JCl.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 196885,
+    "document_updated_at": "2010-12-19 17:24:27 +0100"
+  },
+  {
+    "id": 92,
+    "document_file_name": "1999_Atlas_AO.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1719212,
+    "document_updated_at": "2010-12-19 17:24:30 +0100"
+  },
+  {
+    "id": 93,
+    "document_file_name": "1999_BrParh_Weather.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 155661,
+    "document_updated_at": "2010-12-19 17:24:49 +0100"
+  },
+  {
+    "id": 94,
+    "document_file_name": "1999_Dagboek_Zuidpool_NTvN.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 332079,
+    "document_updated_at": "2010-12-19 17:24:52 +0100"
+  },
+  {
+    "id": 95,
+    "document_file_name": "1999_De_winter_van_Grootmoeder.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 14582,
+    "document_updated_at": "2010-12-19 17:24:57 +0100"
+  },
+  {
+    "id": 96,
+    "document_file_name": "1999_klimaatrapportage.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1723362,
+    "document_updated_at": "2010-12-19 17:24:57 +0100"
+  },
+  {
+    "id": 97,
+    "document_file_name": "1999_paleoprecipitation_ClCh.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 157429,
+    "document_updated_at": "2010-12-19 17:25:16 +0100"
+  },
+  {
+    "id": 98,
+    "document_file_name": "1999_Weer_Elsev.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 72508,
+    "document_updated_at": "2010-12-19 17:25:19 +0100"
+  },
+  {
+    "id": 99,
+    "document_file_name": "1999_ZonsverdBewolkt_Zenit.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1375132,
+    "document_updated_at": "2010-12-19 17:25:21 +0100"
+  },
+  {
+    "id": 100,
+    "document_file_name": "2000_Granny's_winters.doc",
+    "document_content_type": "application/msword",
+    "document_file_size": 47104,
+    "document_updated_at": "2010-12-19 17:25:37 +0100"
+  },
+  {
+    "id": 101,
+    "document_file_name": "2000_Grannys_winters.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 13084,
+    "document_updated_at": "2010-12-19 17:25:38 +0100"
+  },
+  {
+    "id": 102,
+    "document_file_name": "2000_GrensmagEclips__Zenit.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1220802,
+    "document_updated_at": "2010-12-19 17:25:39 +0100"
+  },
+  {
+    "id": 103,
+    "document_file_name": "2000_NZdeVeer_CD.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 3811549,
+    "document_updated_at": "2010-12-19 17:25:53 +0100"
+  },
+  {
+    "id": 104,
+    "document_file_name": "2000_NZdeVeer_NTvN.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1197784,
+    "document_updated_at": "2010-12-19 17:26:37 +0100"
+  },
+  {
+    "id": 105,
+    "document_file_name": "2000_scenario's_WB21.doc",
+    "document_content_type": "application/msword",
+    "document_file_size": 279552,
+    "document_updated_at": "2010-12-19 17:26:51 +0100"
+  },
+  {
+    "id": 106,
+    "document_file_name": "2000_scenario's_WB21.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 112119,
+    "document_updated_at": "2010-12-19 17:26:55 +0100"
+  },
+  {
+    "id": 107,
+    "document_file_name": "2000_scenario\\'s_WB21.doc",
+    "document_content_type": "application/msword",
+    "document_file_size": 279552,
+    "document_updated_at": "2010-12-19 17:26:57 +0100"
+  },
+  {
+    "id": 108,
+    "document_file_name": "2000_scenarios_WB21.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 112119,
+    "document_updated_at": "2010-12-19 17:27:01 +0100"
+  },
+  {
+    "id": 109,
+    "document_file_name": "2001_ClimateScenarios.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 40672,
+    "document_updated_at": "2010-12-19 17:27:03 +0100"
+  },
+  {
+    "id": 110,
+    "document_file_name": "2001_folderweerenwater.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 501762,
+    "document_updated_at": "2010-12-19 17:27:04 +0100"
+  },
+  {
+    "id": 111,
+    "document_file_name": "2001_Rhinebasin_JdJ.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 468464,
+    "document_updated_at": "2010-12-19 17:27:10 +0100"
+  },
+  {
+    "id": 112,
+    "document_file_name": "2001_Scenarios_Irmareport.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 66476,
+    "document_updated_at": "2010-12-19 17:27:16 +0100"
+  },
+  {
+    "id": 113,
+    "document_file_name": "2002_anti-sport_Weergave.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 2301675,
+    "document_updated_at": "2010-12-19 17:27:17 +0100"
+  },
+  {
+    "id": 114,
+    "document_file_name": "2002_broeikasElbe_Nat+Tech.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 510584,
+    "document_updated_at": "2010-12-19 17:27:42 +0100"
+  },
+  {
+    "id": 115,
+    "document_file_name": "2002_ECAdatabase_IJC.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1490865,
+    "document_updated_at": "2010-12-19 17:27:49 +0100"
+  },
+  {
+    "id": 116,
+    "document_file_name": "2002_Elbe_KNMIRIZA.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 829032,
+    "document_updated_at": "2010-12-19 17:28:07 +0100"
+  },
+  {
+    "id": 117,
+    "document_file_name": "2002_Zaikijapans_GRJ.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1702816,
+    "document_updated_at": "2010-12-19 17:28:17 +0100"
+  },
+  {
+    "id": 118,
+    "document_file_name": "2003_COADS_IJC.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 353277,
+    "document_updated_at": "2010-12-19 17:28:36 +0100"
+  },
+  {
+    "id": 119,
+    "document_file_name": "2003_Decima_JCl.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 615682,
+    "document_updated_at": "2010-12-19 17:28:41 +0100"
+  },
+  {
+    "id": 120,
+    "document_file_name": "2003_haloprofiles_AO.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 158947,
+    "document_updated_at": "2010-12-19 17:28:51 +0100"
+  },
+  {
+    "id": 121,
+    "document_file_name": "2003_halosymmetry_AO.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 2334415,
+    "document_updated_at": "2010-12-19 17:28:54 +0100"
+  },
+  {
+    "id": 122,
+    "document_file_name": "2003_homogenisation_IJC.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 606721,
+    "document_updated_at": "2010-12-19 17:29:20 +0100"
+  },
+  {
+    "id": 123,
+    "document_file_name": "2003_NZdeVeer_AO.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1201684,
+    "document_updated_at": "2010-12-19 17:29:27 +0100"
+  },
+  {
+    "id": 124,
+    "document_file_name": "2003_NZeff_AO.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 2121649,
+    "document_updated_at": "2010-12-19 17:29:41 +0100"
+  },
+  {
+    "id": 125,
+    "document_file_name": "2003_surges_JCR.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 334043,
+    "document_updated_at": "2010-12-19 17:30:05 +0100"
+  },
+  {
+    "id": 126,
+    "document_file_name": "2003_trendextremes_JCl.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 609899,
+    "document_updated_at": "2010-12-19 17:30:10 +0100"
+  },
+  {
+    "id": 127,
+    "document_file_name": "2003_urbanisland_IJC.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1462972,
+    "document_updated_at": "2010-12-19 17:30:16 +0100"
+  },
+  {
+    "id": 128,
+    "document_file_name": "2003_Weer2093_Plus.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1243882,
+    "document_updated_at": "2010-12-19 17:30:32 +0100"
+  },
+  {
+    "id": 129,
+    "document_file_name": "2004_Cliwoc_final_report.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 3831930,
+    "document_updated_at": "2010-12-19 17:30:46 +0100"
+  },
+  {
+    "id": 130,
+    "document_file_name": "2004_KA-lender.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 40510116,
+    "document_updated_at": "2010-12-19 17:31:30 +0100"
+  },
+  {
+    "id": 131,
+    "document_file_name": "2004_superstorms_JCl.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 943096,
+    "document_updated_at": "2010-12-19 17:39:27 +0100"
+  },
+  {
+    "id": 132,
+    "document_file_name": "2004_surgelevel_GRL.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 518088,
+    "document_updated_at": "2010-12-19 17:39:39 +0100"
+  },
+  {
+    "id": 133,
+    "document_file_name": "2004_Titan_ESA.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 2050961,
+    "document_updated_at": "2010-12-19 17:39:48 +0100"
+  },
+  {
+    "id": 134,
+    "document_file_name": "2004_uncertainty_PRTS.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 500816,
+    "document_updated_at": "2010-12-19 17:40:16 +0100"
+  },
+  {
+    "id": 135,
+    "document_file_name": "2005_Cliwocdatabase_ClCh.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 636206,
+    "document_updated_at": "2010-12-19 17:40:25 +0100"
+  },
+  {
+    "id": 136,
+    "document_file_name": "2005_Cliwocdutch_ClCh.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 2290395,
+    "document_updated_at": "2010-12-19 17:40:34 +0100"
+  },
+  {
+    "id": 137,
+    "document_file_name": "2005_Cliwocoverview_ClCh.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 371814,
+    "document_updated_at": "2010-12-19 17:41:03 +0100"
+  },
+  {
+    "id": 138,
+    "document_file_name": "2005_Greenhousesignals_IJC.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 838185,
+    "document_updated_at": "2010-12-19 17:41:09 +0100"
+  },
+  {
+    "id": 139,
+    "document_file_name": "2005_returnperiod_storm_IJC.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1861129,
+    "document_updated_at": "2010-12-19 17:41:22 +0100"
+  },
+  {
+    "id": 140,
+    "document_file_name": "2005_Senguerd_IJC.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 105325,
+    "document_updated_at": "2010-12-19 17:41:45 +0100"
+  },
+  {
+    "id": 141,
+    "document_file_name": "2005_stormtrends_IJC.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 447878,
+    "document_updated_at": "2010-12-19 17:41:51 +0100"
+  },
+  {
+    "id": 142,
+    "document_file_name": "2006_CLIWOC_EOS.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 181154,
+    "document_updated_at": "2010-12-19 17:41:58 +0100"
+  },
+  {
+    "id": 143,
+    "document_file_name": "2006_CLIWOC_EU-book.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 6186544,
+    "document_updated_at": "2010-12-19 17:42:04 +0100"
+  },
+  {
+    "id": 144,
+    "document_file_name": "2006_greenflash_popular.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 29463,
+    "document_updated_at": "2010-12-19 17:43:18 +0100"
+  },
+  {
+    "id": 145,
+    "document_file_name": "2006_groenestraal_populair.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 30626,
+    "document_updated_at": "2010-12-19 17:43:20 +0100"
+  },
+  {
+    "id": 146,
+    "document_file_name": "2006_Mars_Weather.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1195853,
+    "document_updated_at": "2010-12-19 17:43:21 +0100"
+  },
+  {
+    "id": 147,
+    "document_file_name": "2006_Mars_Weather_prepr.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 233052,
+    "document_updated_at": "2010-12-19 17:43:37 +0100"
+  },
+  {
+    "id": 148,
+    "document_file_name": "2006_Mars_Zenit.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 302980,
+    "document_updated_at": "2010-12-19 17:43:41 +0100"
+  },
+  {
+    "id": 149,
+    "document_file_name": "2006_Mars_Zenit_cover.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 64411,
+    "document_updated_at": "2010-12-19 17:43:46 +0100"
+  },
+  {
+    "id": 150,
+    "document_file_name": "2006_resampling_IJC.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 212110,
+    "document_updated_at": "2010-12-19 17:43:49 +0100"
+  },
+  {
+    "id": 151,
+    "document_file_name": "2006_TokyoOsaka_IJC.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 478771,
+    "document_updated_at": "2010-12-19 17:43:52 +0100"
+  },
+  {
+    "id": 152,
+    "document_file_name": "2006_Zaikireport_report.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1886270,
+    "document_updated_at": "2010-12-19 17:44:00 +0100"
+  },
+  {
+    "id": 153,
+    "document_file_name": "2007_cloudstreets_popular.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 18596,
+    "document_updated_at": "2010-12-19 17:44:24 +0100"
+  },
+  {
+    "id": 154,
+    "document_file_name": "2007_Eclips_Zenit.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 639343,
+    "document_updated_at": "2010-12-19 17:44:26 +0100"
+  },
+  {
+    "id": 155,
+    "document_file_name": "2007_Holl_licht_Zenit_ingezonden.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 558826,
+    "document_updated_at": "2010-12-19 17:44:37 +0100"
+  },
+  {
+    "id": 156,
+    "document_file_name": "2007_Marsletter_Weather.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 108013,
+    "document_updated_at": "2010-12-19 17:44:45 +0100"
+  },
+  {
+    "id": 157,
+    "document_file_name": "2007_Marsletter_Weather_prepr.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 51237,
+    "document_updated_at": "2010-12-19 17:44:48 +0100"
+  },
+  {
+    "id": 158,
+    "document_file_name": "2007_sunset_popular.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 18760,
+    "document_updated_at": "2010-12-19 17:44:51 +0100"
+  },
+  {
+    "id": 159,
+    "document_file_name": "2007_wolkenstraten_populair.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 16729,
+    "document_updated_at": "2010-12-19 17:44:52 +0100"
+  },
+  {
+    "id": 160,
+    "document_file_name": "2007_zonsondergang_populair.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 18965,
+    "document_updated_at": "2010-12-19 17:44:54 +0100"
+  },
+  {
+    "id": 161,
+    "document_file_name": "2008_Algol_populair.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 107106,
+    "document_updated_at": "2010-12-19 17:44:56 +0100"
+  },
+  {
+    "id": 162,
+    "document_file_name": "2008_Algol_popular.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 35339,
+    "document_updated_at": "2010-12-19 17:45:00 +0100"
+  },
+  {
+    "id": 163,
+    "document_file_name": "2008_Eclipse_AO.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 5619974,
+    "document_updated_at": "2010-12-19 17:45:02 +0100"
+  },
+  {
+    "id": 164,
+    "document_file_name": "2008_Eclipshalo_zenit.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 165392,
+    "document_updated_at": "2010-12-19 17:46:06 +0100"
+  },
+  {
+    "id": 165,
+    "document_file_name": "2008_Eilandklimaat_populair.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 33655,
+    "document_updated_at": "2010-12-19 17:46:11 +0100"
+  },
+  {
+    "id": 166,
+    "document_file_name": "2008_Gerrit_ColumnWeergave.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 179764,
+    "document_updated_at": "2010-12-19 17:46:13 +0100"
+  },
+  {
+    "id": 167,
+    "document_file_name": "2008_Glorie_Zenit.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 5966303,
+    "document_updated_at": "2010-12-19 17:46:17 +0100"
+  },
+  {
+    "id": 168,
+    "document_file_name": "2008_Glorien_VdS.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1879749,
+    "document_updated_at": "2010-12-19 17:47:25 +0100"
+  },
+  {
+    "id": 169,
+    "document_file_name": "2008_Gumbel_GRL.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 684234,
+    "document_updated_at": "2010-12-19 17:47:56 +0100"
+  },
+  {
+    "id": 170,
+    "document_file_name": "2008_Hennie_gat.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 39761,
+    "document_updated_at": "2010-12-19 17:48:07 +0100"
+  },
+  {
+    "id": 171,
+    "document_file_name": "2008_HotSpot_AO.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 360753,
+    "document_updated_at": "2010-12-19 17:48:08 +0100"
+  },
+  {
+    "id": 172,
+    "document_file_name": "2008_Hotspot_Zenit.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 5197508,
+    "document_updated_at": "2010-12-19 17:48:14 +0100"
+  },
+  {
+    "id": 173,
+    "document_file_name": "2008_Islandclimate_popular.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 35337,
+    "document_updated_at": "2010-12-19 17:49:21 +0100"
+  },
+  {
+    "id": 174,
+    "document_file_name": "2008_Polarisatie_NRC.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 158490,
+    "document_updated_at": "2010-12-19 17:49:25 +0100"
+  },
+  {
+    "id": 175,
+    "document_file_name": "2008_Romedisplay_AO_klein.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1458514,
+    "document_updated_at": "2010-12-19 17:49:29 +0100"
+  },
+  {
+    "id": 176,
+    "document_file_name": "2008_Romedisplay_AO_middel.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 4800098,
+    "document_updated_at": "2010-12-19 17:49:48 +0100"
+  },
+  {
+    "id": 177,
+    "document_file_name": "2008_Superstormen_Zenit.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 2550020,
+    "document_updated_at": "2010-12-19 17:50:49 +0100"
+  },
+  {
+    "id": 178,
+    "document_file_name": "2008_Zuidpoolhalo_Zenit4_omslag.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1086228,
+    "document_updated_at": "2010-12-19 17:51:21 +0100"
+  },
+  {
+    "id": 179,
+    "document_file_name": "2009_Bidsprinkhaan_NRC.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 459050,
+    "document_updated_at": "2010-12-19 17:51:38 +0100"
+  },
+  {
+    "id": 180,
+    "document_file_name": "2009_CircJapan_ClimCh.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 875561,
+    "document_updated_at": "2010-12-19 17:51:45 +0100"
+  },
+  {
+    "id": 181,
+    "document_file_name": "2009_GlorieCabauw_Otten.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 241425,
+    "document_updated_at": "2010-12-19 17:51:56 +0100"
+  },
+  {
+    "id": 182,
+    "document_file_name": "2009_Glory_Weather.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 639622,
+    "document_updated_at": "2010-12-19 17:52:01 +0100"
+  },
+  {
+    "id": 183,
+    "document_file_name": "2009_Glory_Weather_prepr.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 745207,
+    "document_updated_at": "2010-12-19 17:52:10 +0100"
+  },
+  {
+    "id": 184,
+    "document_file_name": "2009_Nachtwolken_Zenit.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 729423,
+    "document_updated_at": "2010-12-19 17:52:19 +0100"
+  },
+  {
+    "id": 185,
+    "document_file_name": "2009_PSC_Weather.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 741834,
+    "document_updated_at": "2010-12-19 17:52:29 +0100"
+  },
+  {
+    "id": 186,
+    "document_file_name": "2009_PSC_Weather_prepr.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 795415,
+    "document_updated_at": "2010-12-19 17:52:39 +0100"
+  },
+  {
+    "id": 187,
+    "document_file_name": "2009_Rainbows_Popular.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 42252,
+    "document_updated_at": "2010-12-19 17:52:50 +0100"
+  },
+  {
+    "id": 188,
+    "document_file_name": "2009_regenbogen_populair.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 40745,
+    "document_updated_at": "2010-12-19 17:52:51 +0100"
+  },
+  {
+    "id": 189,
+    "document_file_name": "2009_RondeRegenboog.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 47629,
+    "document_updated_at": "2010-12-19 17:52:53 +0100"
+  },
+  {
+    "id": 190,
+    "document_file_name": "2009_vdDool_NTvN.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 744440,
+    "document_updated_at": "2010-12-19 17:52:55 +0100"
+  },
+  {
+    "id": 191,
+    "document_file_name": "2009_weerinterview_nd.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 259900,
+    "document_updated_at": "2010-12-19 17:53:08 +0100"
+  },
+  {
+    "id": 192,
+    "document_file_name": "2009_Zuil__en_maan_Zenit.doc",
+    "document_content_type": "application/msword",
+    "document_file_size": 51200,
+    "document_updated_at": "2010-12-19 17:53:13 +0100"
+  },
+  {
+    "id": 193,
+    "document_file_name": "2009_Zuil_en_maan_Zenit.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 576024,
+    "document_updated_at": "2010-12-19 17:53:15 +0100"
+  },
+  {
+    "id": 195,
+    "document_file_name": "2010_FiveExamples_IJC_online.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1658892,
+    "document_updated_at": "2010-12-19 17:53:44 +0100"
+  },
+  {
+    "id": 196,
+    "document_file_name": "2010_FiveExamples_IJC_prep.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1711727,
+    "document_updated_at": "2010-12-19 17:54:02 +0100"
+  },
+  {
+    "id": 197,
+    "document_file_name": "2010_molecul_asp_broeikasefffect.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 87603,
+    "document_updated_at": "2010-12-19 17:54:21 +0100"
+  },
+  {
+    "id": 198,
+    "document_file_name": "2010_planetoide_SOEST.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 2625050,
+    "document_updated_at": "2010-12-19 17:54:23 +0100"
+  },
+  {
+    "id": 199,
+    "document_file_name": "2010_planetoide_Weergave.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1203045,
+    "document_updated_at": "2010-12-19 17:54:52 +0100"
+  },
+  {
+    "id": 200,
+    "document_file_name": "2010_Saltwaterrainbow_OPN.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 994148,
+    "document_updated_at": "2010-12-19 17:55:06 +0100"
+  },
+  {
+    "id": 201,
+    "document_file_name": "2010_Titanmeer.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 383204,
+    "document_updated_at": "2010-12-19 17:55:18 +0100"
+  },
+  {
+    "id": 211,
+    "document_file_name": "2011_FiveExamples_IJC.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1663310,
+    "document_updated_at": "2010-12-24 15:31:24 +0100"
+  },
+  {
+    "id": 212,
+    "document_file_name": "2010_Lintje_G&E.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1851704,
+    "document_updated_at": "2010-12-26 21:08:25 +0100"
+  },
+  {
+    "id": 213,
+    "document_file_name": "2009_DickFolkers.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 8525,
+    "document_updated_at": "2010-12-26 21:53:53 +0100"
+  },
+  {
+    "id": 214,
+    "document_file_name": "2010_Nova_Cygni_deJagerZenit.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 639253,
+    "document_updated_at": "2010-12-27 11:19:54 +0100"
+  },
+  {
+    "id": 216,
+    "document_file_name": "2010_Verwandtschaft.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 42490,
+    "document_updated_at": "2010-12-29 20:50:41 +0100"
+  },
+  {
+    "id": 217,
+    "document_file_name": "2010_XandY.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 127898,
+    "document_updated_at": "2010-12-29 20:50:59 +0100"
+  },
+  {
+    "id": 218,
+    "document_file_name": "2010_Verwandtschaft_NL.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 45593,
+    "document_updated_at": "2010-12-29 20:51:57 +0100"
+  },
+  {
+    "id": 219,
+    "document_file_name": "2010_XenY.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 126688,
+    "document_updated_at": "2010-12-29 20:52:16 +0100"
+  },
+  {
+    "id": 220,
+    "document_file_name": "2005_HuygensTitan_Eng.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 93335,
+    "document_updated_at": "2011-01-07 08:39:10 +0100"
+  },
+  {
+    "id": 221,
+    "document_file_name": "2005_HuygensTitan_NL.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 97414,
+    "document_updated_at": "2011-01-07 20:58:30 +0100"
+  },
+  {
+    "id": 224,
+    "document_file_name": "2011_SunEclipse_populair.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 109025,
+    "document_updated_at": "2011-01-14 19:03:04 +0100"
+  },
+  {
+    "id": 229,
+    "document_file_name": "2011_Rijp_en_grondhalos.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 449240,
+    "document_updated_at": "2011-02-08 12:53:39 +0100"
+  },
+  {
+    "id": 231,
+    "document_file_name": "1996_klimaatrapportage.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 19657500,
+    "document_updated_at": "2011-02-23 07:49:18 +0100"
+  },
+  {
+    "id": 234,
+    "document_file_name": "2011_Krulregenboog_Zenitomslag.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 669183,
+    "document_updated_at": "2011-03-31 10:18:03 +0200"
+  },
+  {
+    "id": 236,
+    "document_file_name": "2011_Krulregenboog_Zenit.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 695558,
+    "document_updated_at": "2011-04-01 10:03:41 +0200"
+  },
+  {
+    "id": 237,
+    "document_file_name": "2008_Romedisplay_AO_groot.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 31182681,
+    "document_updated_at": "2011-05-05 18:08:29 +0200"
+  },
+  {
+    "id": 238,
+    "document_file_name": "2011_Minnaert_citizenship.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 11218,
+    "document_updated_at": "2011-05-24 09:58:10 +0200"
+  },
+  {
+    "id": 243,
+    "document_file_name": "2011_Supersun_AO.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 2080096,
+    "document_updated_at": "2011-09-21 21:42:50 +0200"
+  },
+  {
+    "id": 244,
+    "document_file_name": "2011_Eva_Scheiner_AO.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 447013,
+    "document_updated_at": "2011-09-30 18:39:04 +0200"
+  },
+  {
+    "id": 245,
+    "document_file_name": "2011_Seven suns of Rome _ Nature News.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 64312,
+    "document_updated_at": "2011-10-03 14:12:51 +0200"
+  },
+  {
+    "id": 246,
+    "document_file_name": "1980_Gepolariseerd_Licht_boek.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 19269377,
+    "document_updated_at": "2011-10-06 19:15:23 +0200"
+  },
+  {
+    "id": 247,
+    "document_file_name": "1990_Aanhoudend_Warm_boek.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 14371374,
+    "document_updated_at": "2011-10-06 19:22:28 +0200"
+  },
+  {
+    "id": 249,
+    "document_file_name": "1985_Pol_Light_in_Nature_book.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 25099249,
+    "document_updated_at": "2011-10-06 19:34:25 +0200"
+  },
+  {
+    "id": 250,
+    "document_file_name": "1983_Weer_in_NL_boek.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 21540068,
+    "document_updated_at": "2011-10-06 19:48:36 +0200"
+  },
+  {
+    "id": 252,
+    "document_file_name": "2011_3-4 regenboog_Zenit.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 372317,
+    "document_updated_at": "2011-10-24 14:41:26 +0200"
+  },
+  {
+    "id": 253,
+    "document_file_name": "1990_welke_ster_Widmann.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 18309111,
+    "document_updated_at": "2011-10-27 08:55:43 +0200"
+  },
+  {
+    "id": 254,
+    "document_file_name": "1980_Gepol_licht_rechten_retour.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 34000,
+    "document_updated_at": "2011-12-23 10:53:49 +0100"
+  },
+  {
+    "id": 255,
+    "document_file_name": "2012_hoogwater_Zenit.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 156313,
+    "document_updated_at": "2012-01-04 15:44:04 +0100"
+  },
+  {
+    "id": 258,
+    "document_file_name": "2012_Regenbogenreflektion_VdS.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1066277,
+    "document_updated_at": "2012-02-06 13:40:17 +0100"
+  },
+  {
+    "id": 259,
+    "document_file_name": "2012_NRC_20120211_SchattendRekenen.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 235071,
+    "document_updated_at": "2012-02-11 09:55:13 +0100"
+  },
+  {
+    "id": 260,
+    "document_file_name": "2012_NRC_20120211_OorzaakWatersnood.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 62557,
+    "document_updated_at": "2012-02-11 09:56:11 +0100"
+  },
+  {
+    "id": 261,
+    "document_file_name": "2011_Stormtide_Terschelling.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 521353,
+    "document_updated_at": "2012-03-04 18:46:50 +0100"
+  },
+  {
+    "id": 262,
+    "document_file_name": "2011_HoogwaterTerschelling_populair.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 502756,
+    "document_updated_at": "2012-03-04 18:47:45 +0100"
+  },
+  {
+    "id": 263,
+    "document_file_name": "2012_onderscheiding_Zenit.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 87139,
+    "document_updated_at": "2012-05-30 08:21:29 +0200"
+  },
+  {
+    "id": 264,
+    "document_file_name": "2012_Huygens_en_Venus_NRC.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 270480,
+    "document_updated_at": "2012-06-02 19:39:34 +0200"
+  },
+  {
+    "id": 266,
+    "document_file_name": "2012_Interview_HetWeer.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 156872,
+    "document_updated_at": "2012-11-02 14:32:52 +0100"
+  },
+  {
+    "id": 268,
+    "document_file_name": "2000_DejimaData_CCCV.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 774856,
+    "document_updated_at": "2012-12-20 19:39:25 +0100"
+  },
+  {
+    "id": 269,
+    "document_file_name": "2000_JapanWinterTemp_CCCV.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1024755,
+    "document_updated_at": "2012-12-20 19:40:09 +0100"
+  },
+  {
+    "id": 270,
+    "document_file_name": "2013_QualityAssADS-C_Joost_amtd.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1711837,
+    "document_updated_at": "2013-02-01 09:49:47 +0100"
+  },
+  {
+    "id": 272,
+    "document_file_name": "2013_Schaduwstraal_Zenit.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 2537757,
+    "document_updated_at": "2013-05-20 19:16:22 +0200"
+  },
+  {
+    "id": 273,
+    "document_file_name": "2013_Submoon_Weather.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 118758,
+    "document_updated_at": "2013-07-26 15:25:06 +0200"
+  },
+  {
+    "id": 274,
+    "document_file_name": "2013_Halos_IJsbroertje.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 197110,
+    "document_updated_at": "2013-07-26 15:38:58 +0200"
+  },
+  {
+    "id": 275,
+    "document_file_name": "2013_Halos_LittleBrother.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 234135,
+    "document_updated_at": "2013-07-28 12:20:42 +0200"
+  },
+  {
+    "id": 276,
+    "document_file_name": "2014_onderzonmaam_Zenit.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 5509379,
+    "document_updated_at": "2013-12-14 19:11:14 +0100"
+  },
+  {
+    "id": 311,
+    "document_file_name": "2014_Zeewater_is_zout!_NTvN.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 2313203,
+    "document_updated_at": "2014-06-16 19:57:55 +0200"
+  },
+  {
+    "id": 313,
+    "document_file_name": "2014_Seawater_is_Salt!_NTvN.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 460818,
+    "document_updated_at": "2014-07-28 08:32:53 +0200"
+  },
+  {
+    "id": 314,
+    "document_file_name": "2015_Sirius_AO.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 623569,
+    "document_updated_at": "2014-09-17 07:40:05 +0200"
+  },
+  {
+    "id": 315,
+    "document_file_name": "2015_Rainbowpol_AO.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 228861,
+    "document_updated_at": "2014-10-16 07:49:23 +0200"
+  },
+  {
+    "id": 317,
+    "document_file_name": "2015_7thRainbow_AO.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 446638,
+    "document_updated_at": "2014-12-05 08:37:31 +0100"
+  },
+  {
+    "id": 318,
+    "document_file_name": "2015_HuygHalo_AO.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1324711,
+    "document_updated_at": "2015-01-08 15:33:33 +0100"
+  },
+  {
+    "id": 319,
+    "document_file_name": "2015_HalosRandom_AO.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 442344,
+    "document_updated_at": "2015-01-08 15:34:01 +0100"
+  },
+  {
+    "id": 320,
+    "document_file_name": "2000_Computeren vanaf Zuidpool_RefDagblad.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 12841,
+    "document_updated_at": "2015-03-15 18:13:19 +0100"
+  },
+  {
+    "id": 321,
+    "document_file_name": "2012_KortsteDag_populair.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 20589,
+    "document_updated_at": "2015-07-27 08:28:20 +0200"
+  },
+  {
+    "id": 322,
+    "document_file_name": "2015_Mist&Wind.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 11703405,
+    "document_updated_at": "2015-07-27 08:30:52 +0200"
+  },
+  {
+    "id": 324,
+    "document_file_name": "2015_Hogere_regenbogen_NTvN.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 2419109,
+    "document_updated_at": "2015-09-15 13:31:03 +0200"
+  },
+  {
+    "id": 325,
+    "document_file_name": "2016_Mist   wind_NTvN.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1996376,
+    "document_updated_at": "2016-02-29 13:40:26 +0100"
+  },
+  {
+    "id": 326,
+    "document_file_name": "2016_Zuidpool&Vostok.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 2307736,
+    "document_updated_at": "2016-04-26 08:52:55 +0200"
+  },
+  {
+    "id": 329,
+    "document_file_name": "2016_DejimaChief_Weatherdata.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 12652568,
+    "document_updated_at": "2016-09-25 12:15:17 +0200"
+  },
+  {
+    "id": 331,
+    "document_file_name": "2017_Mobius-I_AO.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 873539,
+    "document_updated_at": "2017-05-11 19:35:07 +0200"
+  },
+  {
+    "id": 332,
+    "document_file_name": "2017_Mobius-II_AO.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 433580,
+    "document_updated_at": "2017-05-11 19:35:26 +0200"
+  },
+  {
+    "id": 333,
+    "document_file_name": "2017_Konnen_BAMS.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 622878,
+    "document_updated_at": "2017-05-16 06:49:17 +0200"
+  },
+  {
+    "id": 334,
+    "document_file_name": "2018_Bijzonpolarisatie_NTvN.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 969442,
+    "document_updated_at": "2018-07-02 12:21:22 +0200"
+  },
+  {
+    "id": 335,
+    "document_file_name": "2018_BrewsterVlek_NTvN.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 2065027,
+    "document_updated_at": "2018-07-02 12:21:42 +0200"
+  },
+  {
+    "id": 336,
+    "document_file_name": "2018_Nachtschemering_NTvN.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1246729,
+    "document_updated_at": "2018-07-02 12:22:14 +0200"
+  },
+  {
+    "id": 337,
+    "document_file_name": "2019_Stagnerende zonsondergang_NTvN.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1444400,
+    "document_updated_at": "2019-01-02 16:15:25 +0100"
+  },
+  {
+    "id": 338,
+    "document_file_name": "2019_Brewster_Weather.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 1205184,
+    "document_updated_at": "2019-04-03 18:34:36 +0200"
+  },
+  {
+    "id": 339,
+    "document_file_name": "2020_Ringvormige zonnebeeldjes_NTvN.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 5768942,
+    "document_updated_at": "2020-03-02 15:00:55 +0100"
+  },
+  {
+    "id": 340,
+    "document_file_name": "2020_Regulus_Meteoros.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 838362,
+    "document_updated_at": "2020-03-02 15:02:23 +0100"
+  },
+  {
+    "id": 341,
+    "document_file_name": "2020_SubsunsRainbowsEclipse_AO.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 979316,
+    "document_updated_at": "2020-05-30 18:49:51 +0200"
+  },
+  {
+    "id": 343,
+    "document_file_name": "2020_VenusTransitsTheCorona_Sky&Telescope.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 3921121,
+    "document_updated_at": "2020-08-15 14:41:23 +0200"
+  },
+  {
+    "id": 344,
+    "document_file_name": "2020_VenusTransitsTheCorona_HK.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 853205,
+    "document_updated_at": "2020-09-22 09:11:26 +0200"
+  },
+  {
+    "id": 345,
+    "document_file_name": "2020_ VenusCorona_Zenit.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 594017,
+    "document_updated_at": "2020-10-19 08:33:30 +0200"
+  },
+  {
+    "id": 346,
+    "document_file_name": "2020_ VenusCoronaErratum_Zenit.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 458972,
+    "document_updated_at": "2020-11-07 08:23:10 +0100"
+  },
+  {
+    "id": 348,
+    "document_file_name": "2022_A refraction halo on Mars.pdf",
+    "document_content_type": "application/pdf",
+    "document_file_size": 268814,
+    "document_updated_at": "2022-07-27 08:38:29 +0200"
+  }
+]
