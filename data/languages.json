@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "English",
+    "param": "en"
+  },
+  {
+    "id": 2,
+    "name": "Nederlands",
+    "param": "nl"
+  },
+  {
+    "id": 3,
+    "name": "Deutsch",
+    "param": "de"
+  },
+  {
+    "id": 4,
+    "name": "Français",
+    "param": "fr"
+  },
+  {
+    "id": 5,
+    "name": "Japanese",
+    "param": "jp"
+  }
+]

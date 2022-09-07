@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Gunther Konnen - <%= current_page.data.title %></title>
+    <%= stylesheet_link_tag "tailwind" %>
+    <%= javascript_include_tag "site" %>
+  </head>
+  <body class="bg-gray-50">
+    <div class="max-w-4xl mx-auto">
+      <div class="rounded-b overflow-hidden">
+        <%= image_tag "header.jpg" %>
+      </div>
+      <div class="mt-5">
+        <div class="flex">
+          <% base_classes = "ml-5 first:ml-0 bg-white w-32 py-4 text-center uppercase rounded border border-gray-200 text-gray-900 hover:text-teal-600 hover:border-teal-600 transition" %>
+          <% current_classes = "border-teal-600 text-teal-600" %>
+
+          <% if ["index.html", "en/home.html"].include?(current_page.path) %>
+            <%= link_to "home", "/en/home.html", class: [base_classes, current_classes] %>
+          <% else %>
+            <%= link_to "home", "/en/home.html", class: base_classes %>
+          <% end %>
+
+          <% if current_page.path =~ /^\w{2}\/articles/ %>
+            <%= link_to "articles", "/en/articles/atmospheric-optics.html", class: [base_classes, current_classes] %>
+          <% else %>
+            <%= link_to "articles", "/en/articles/atmospheric-optics.html", class: base_classes %>
+          <% end %>
+        </div>
+
+        <div class="mt-5 p-10 bg-white rounded border">
+          <%= yield %>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

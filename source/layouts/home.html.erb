@@ -1,0 +1,22 @@
+<div>
+  <div class="border-b pb-10 mb-10">
+    <% base_classes = "inline-block text-center w-32 py-3 ml-3 rounded first:ml-0 hover:text-teal-50 hover:bg-teal-600 transition" %>
+    <% current_classes = "text-teal-50 bg-teal-600" %>
+
+    <% if %w[index.html en/home.html].include?(current_page.path) %>
+      <%= link_to "English", "/en/home.html", class: [base_classes, current_classes] %>
+    <% else %>
+      <%= link_to "English", "/en/home.html", class: base_classes %>
+    <% end %>
+
+    <% if "nl/home.html" == current_page.path %>
+      <%= link_to "Nederlands", "/nl/home.html", class: [base_classes, current_classes] %>
+    <% else %>
+      <%= link_to "Nederlands", "/nl/home.html", class: base_classes %>
+    <% end %>
+  </div>
+
+  <div>
+    <%= yield %>
+  </div>
+</div>
