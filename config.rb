@@ -101,7 +101,7 @@ helpers do
   include Helpers
 
   def download_for_article(article, data_downloads:)
-    data_downloads.find {|download| download["id"] == article["download_id"]}
+    data_downloads.find { |download| download["id"] == article["download_id"] }
   end
 
   # def current_language
