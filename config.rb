@@ -1,6 +1,10 @@
 # Activate and configure extensions
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions
 
+data_languages = JSON.parse(File.read("./data/languages.json"))
+data_articles = JSON.parse(File.read("./data/articles.json"))
+data_subjects = JSON.parse(File.read("./data/subjects.json"))
+
 activate :autoprefixer do |prefix|
   prefix.browsers = "last 2 versions"
 end
@@ -8,9 +12,6 @@ end
 activate :tailwind do |config|
   config.config_path = "tailwind.config.js"
 end
-
-# set :markdown_engine, :redcarpet
-# set :markdown, :fenced_code_blocks => true, :smartypants => true
 
 # Layouts
 # https://middlemanapp.com/basics/layouts/
@@ -26,7 +27,6 @@ page "/*.txt", layout: false
 # Helpers
 # Methods defined in the helpers block are available in templates
 # https://middlemanapp.com/basics/helper-methods/
-
 module Helpers
   module_function
 
@@ -45,27 +45,18 @@ module Helpers
     data_subjects
       .select { |subject| subject_ids.include?(subject["id"]) }
   end
+end
 
-  # def to_param(name)
-  #   name.downcase.gsub(" ", "-")
-  # end
+helpers do
+  include Helpers
+
+  def download_for_article(article, data_downloads:)
+    data_downloads.find { |download| download["id"] == article["download_id"] }
+  end
 end
 
 # Proxy pages
 # https://middlemanapp.com/advanced/dynamic-pages/
-
-# proxy(
-#   '/this-page-has-no-template.html',
-#   '/template-file.html',
-#   locals: {
-#     which_fake_page: 'Rendering a fake page with a local variable'
-#   },
-# )
-
-data_languages = JSON.parse(File.read("./data/languages.json"))
-data_articles = JSON.parse(File.read("./data/articles.json"))
-data_subjects = JSON.parse(File.read("./data/subjects.json"))
-
 data_languages.each do |language|
   subjects = Helpers.subjects_for_language(
     language["param"],
@@ -81,7 +72,7 @@ data_languages.each do |language|
 
     proxy(
       "/#{language["param"]}/articles/#{subject["param"]}.html",
-      "/articles/template.html",
+      "/articles.html",
       locals: {
         current_language: language,
         current_subject: subject,
@@ -100,11 +91,3 @@ end
 #   activate :minify_css
 #   activate :minify_javascript
 # end
-
-helpers do
-  include Helpers
-
-  def download_for_article(article, data_downloads:)
-    data_downloads.find { |download| download["id"] == article["download_id"] }
-  end
-end
