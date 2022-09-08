@@ -2,7 +2,7 @@
   <div>
     <%= link_to(
       article["title"],
-      "/articles/#{article["title"].parameterize}.html",
+      "/articles/#{article["id"]}-#{article["title"].parameterize}.html",
       class: "text-lg text-teal-600 font-semibold hover:underline"
     )%>
   </div>

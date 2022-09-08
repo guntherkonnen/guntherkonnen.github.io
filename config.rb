@@ -77,7 +77,14 @@ data_languages.each do |language|
         current_language: language,
         current_subject: subject,
         articles: current_articles,
-        title: "#{subject["name"]} (#{language["name"]})"
+        title: "#{subject["name"]} (#{language["name"]})",
+        description: (
+          if language["param"] == "nl"
+            "Artikelen over #{subject["name"]}"
+          else
+            "Articles on #{subject["name"]}"
+          end
+        )
       },
       ignore: true
     )
@@ -86,7 +93,7 @@ end
 
 data_articles.each do |article|
   proxy(
-    "/articles/#{article["title"].parameterize}.html",
+    "/articles/#{article["id"]}-#{article["title"].parameterize}.html",
     "/article.html",
     locals: {
       article: article,
