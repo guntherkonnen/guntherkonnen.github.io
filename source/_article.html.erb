@@ -14,19 +14,21 @@
       <%= article["authors"].gsub(" en ", ", ").gsub(",,", ",").gsub("anderen", "others") %>
     </div>
   </div>
-  <div class="prose mt-5">
-    <%= Sanitize.fragment(
-      article["content"],
-      elements: ["a", "span"],
-      attributes: {
-        "a" => ["href", "title", "target"],
-        "span" => ["style"],
-      },
-      :css => {
-        :properties => ["color"]
-      }
-    ) %>
-  </div>
+  <% if article["content"].present? %>
+    <div class="prose mt-5">
+      <%= Sanitize.fragment(
+        article["content"],
+        elements: ["a", "span"],
+        attributes: {
+          "a" => ["href", "title", "target"],
+          "span" => ["style"],
+        },
+        :css => {
+          :properties => ["color"]
+        }
+      ) %>
+    </div>
+  <% end %>
   <% if article["url"].present? %>
     <div class="mt-5">
       <%= link_to(
