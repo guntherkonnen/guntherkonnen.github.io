@@ -1,5 +1,9 @@
 <!doctype html>
-<html>
+<% if defined?(current_language) %>
+  <html lang="<%= current_language["param"] %>">
+<% else %>
+  <html lang="<%= current_page.data.language || "en" %>">
+<% end %>
   <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">

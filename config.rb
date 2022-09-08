@@ -92,13 +92,16 @@ data_languages.each do |language|
 end
 
 data_articles.each do |article|
+  language = data_languages.find {|language| language["id"] == article["language_id"]}
+
   proxy(
     "/articles/#{article["id"]}-#{article["title"].parameterize}.html",
     "/article.html",
     locals: {
       article: article,
       title: article["title"],
-      description: ERB::Util.html_escape(Sanitize.fragment(article["content"])).strip
+      description: ERB::Util.html_escape(Sanitize.fragment(article["content"])).strip,
+      current_language: language
     },
     ignore: true
   )
