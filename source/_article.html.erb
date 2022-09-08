@@ -1,0 +1,53 @@
+<div class="border-b last:border-b-0 p-10 pb-14 ">
+  <div>
+    <%= link_to(
+      article["title"],
+      "/articles/#{article["title"].parameterize}.html",
+      class: "text-lg text-teal-600 font-semibold hover:underline"
+    )%>
+  </div>
+  <div class="text-gray-500 text-sm">
+    <div class="mt-2">
+      Published in <%= article["magazine"] %> in <span class="font-bold"><%= article["year"] %></span>
+    </div>
+    <div class="mt-2">
+      <%= article["authors"].gsub(" en ", ", ").gsub(",,", ",").gsub("anderen", "others") %>
+    </div>
+  </div>
+  <div class="prose mt-5">
+    <%= Sanitize.fragment(
+      article["content"],
+      elements: ["a", "span"],
+      attributes: {
+        "a" => ["href", "title", "target"],
+        "span" => ["style"],
+      },
+      :css => {
+        :properties => ["color"]
+      }
+    ) %>
+  </div>
+  <% if article["url"].present? %>
+    <div class="mt-5">
+      <%= link_to(
+        "link to additional information",
+        article["url"],
+        class: "text-teal-600 hover:text-teal-900 font-bold text-sm underline uppercase",
+        target: :_blank
+      ) %>
+    </div>
+  <% end %>
+
+  <% download = download_for_article(article, data_downloads: data.downloads) %>
+
+  <% if download %>
+    <div class="mt-5">
+      <%= link_to(
+        "download document",
+        "documents/#{download["id"]}/#{download["document_file_name"]}",
+        class: "text-red-600 hover:text-red-900 font-bold text-sm underline uppercase",
+        target: :_blank
+      )%>
+    </div>
+  <% end %>
+</div>

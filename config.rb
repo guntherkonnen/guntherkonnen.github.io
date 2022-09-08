@@ -84,6 +84,19 @@ data_languages.each do |language|
   end
 end
 
+data_articles.each do |article|
+  proxy(
+    "/articles/#{article["title"].parameterize}.html",
+    "/article.html",
+    locals: {
+      article: article,
+      title: article["title"],
+      description: ERB::Util.html_escape(Sanitize.fragment(article["content"])).strip
+    },
+    ignore: true
+  )
+end
+
 # Build-specific configuration
 # https://middlemanapp.com/advanced/configuration/#environment-specific-settings
 
