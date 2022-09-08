@@ -68,7 +68,7 @@ data_languages.each do |language|
   subjects.each do |subject|
     current_articles =
       data_articles
-        .select { |article| article["subject_id"] == subject["id"] }
+        .select { |article| article["subject_id"] == subject["id"] && article["language_id"] == language["id"] }
 
     proxy(
       "/#{language["param"]}/articles/#{subject["param"]}.html",
