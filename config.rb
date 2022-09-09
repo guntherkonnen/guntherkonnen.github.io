@@ -1,6 +1,20 @@
 # Activate and configure extensions
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions
 
+class Middleman::Tailwind::Main < Middleman::Extension
+  # Patch to produce source/stylesheets/tailwind.css prior to build process.
+  # Identical logic to #after_configuration
+  def before_build(builder)
+    exe = File.join(@gem_dir, "exe/#{executable}")
+    cmd = "#{exe} -c #{config_file} -i #{application_css} -o #{destination}"
+
+    return if app.mode?(:server)
+
+    puts "Building Tailwind CSS..."
+    system(cmd, out: $stdout)
+  end
+end
+
 data_languages = JSON.parse(File.read("./data/languages.json"))
 data_articles = JSON.parse(File.read("./data/articles.json"))
 data_subjects = JSON.parse(File.read("./data/subjects.json"))
