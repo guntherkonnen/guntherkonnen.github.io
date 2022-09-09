@@ -5,10 +5,6 @@ data_languages = JSON.parse(File.read("./data/languages.json"))
 data_articles = JSON.parse(File.read("./data/articles.json"))
 data_subjects = JSON.parse(File.read("./data/subjects.json"))
 
-activate :autoprefixer do |prefix|
-  prefix.browsers = "last 2 versions"
-end
-
 activate :tailwind do |config|
   config.config_path = "tailwind.config.js"
 end
