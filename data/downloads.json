@@ -22,21 +22,21 @@
   },
   {
     "id": 4,
-    "document_file_name": "1968_DrievConj_H+D.pdf",
+    "document_file_name": "1968_DrievConj_H_D.pdf",
     "document_content_type": "application/pdf",
     "document_file_size": 3399263,
     "document_updated_at": "2010-12-19 16:55:45 +0100"
   },
   {
     "id": 5,
-    "document_file_name": "1968_HeliakischeOpk_H+D.pdf",
+    "document_file_name": "1968_HeliakischeOpk_H_D.pdf",
     "document_content_type": "application/pdf",
     "document_file_size": 2758408,
     "document_updated_at": "2010-12-19 16:56:21 +0100"
   },
   {
     "id": 6,
-    "document_file_name": "1968_PolRegenboog_H+D.pdf",
+    "document_file_name": "1968_PolRegenboog_H_D.pdf",
     "document_content_type": "application/pdf",
     "document_file_size": 1294201,
     "document_updated_at": "2010-12-19 16:56:51 +0100"
@@ -57,7 +57,7 @@
   },
   {
     "id": 9,
-    "document_file_name": "1969_PolHemel_H+D.pdf",
+    "document_file_name": "1969_PolHemel_H_D.pdf",
     "document_content_type": "application/pdf",
     "document_file_size": 1231607,
     "document_updated_at": "2010-12-19 16:57:20 +0100"
@@ -85,14 +85,14 @@
   },
   {
     "id": 13,
-    "document_file_name": "1971_HaloPol_H+D.pdf",
+    "document_file_name": "1971_HaloPol_H_D.pdf",
     "document_content_type": "application/pdf",
     "document_file_size": 2966951,
     "document_updated_at": "2010-12-19 16:57:57 +0100"
   },
   {
     "id": 14,
-    "document_file_name": "1971_kunstmaanovergang_H+D.pdf",
+    "document_file_name": "1971_kunstmaanovergang_H_D.pdf",
     "document_content_type": "application/pdf",
     "document_file_size": 1044667,
     "document_updated_at": "2010-12-19 16:58:29 +0100"
@@ -106,7 +106,7 @@
   },
   {
     "id": 16,
-    "document_file_name": "1972_HalosVliegtuig_H+D.pdf",
+    "document_file_name": "1972_HalosVliegtuig_H_D.pdf",
     "document_content_type": "application/pdf",
     "document_file_size": 2119895,
     "document_updated_at": "2010-12-19 16:58:44 +0100"
@@ -155,7 +155,7 @@
   },
   {
     "id": 23,
-    "document_file_name": "1973_Wolkenboog_H+D.pdf",
+    "document_file_name": "1973_Wolkenboog_H_D.pdf",
     "document_content_type": "application/pdf",
     "document_file_size": 971859,
     "document_updated_at": "2010-12-19 16:59:25 +0100"
@@ -204,7 +204,7 @@
   },
   {
     "id": 30,
-    "document_file_name": "1975_C+O2_ChemPhysLtt.pdf",
+    "document_file_name": "1975_C_O2_ChemPhysLtt.pdf",
     "document_content_type": "application/pdf",
     "document_file_size": 617812,
     "document_updated_at": "2010-12-19 17:01:37 +0100"
@@ -288,14 +288,14 @@
   },
   {
     "id": 42,
-    "document_file_name": "1977_L+C_Zenit.pdf",
+    "document_file_name": "1977_L_C_Zenit.pdf",
     "document_content_type": "application/pdf",
     "document_file_size": 913946,
     "document_updated_at": "2010-12-19 17:05:29 +0100"
   },
   {
     "id": 43,
-    "document_file_name": "1977_L+Cfoto_Zenitomslag.pdf",
+    "document_file_name": "1977_L_Cfoto_Zenitomslag.pdf",
     "document_content_type": "application/pdf",
     "document_file_size": 1349032,
     "document_updated_at": "2010-12-19 17:05:42 +0100"
@@ -792,7 +792,7 @@
   },
   {
     "id": 114,
-    "document_file_name": "2002_broeikasElbe_Nat+Tech.pdf",
+    "document_file_name": "2002_broeikasElbe_Nat_Tech.pdf",
     "document_content_type": "application/pdf",
     "document_file_size": 510584,
     "document_updated_at": "2010-12-19 17:27:42 +0100"

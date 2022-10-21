@@ -102,7 +102,7 @@ data_languages.each do |language|
 end
 
 data_articles.each do |article|
-  language = data_languages.find {|language| language["id"] == article["language_id"]}
+  language = data_languages.find { |language| language["id"] == article["language_id"] }
 
   proxy(
     "/articles/#{article["id"]}-#{article["title"].parameterize}.html",
